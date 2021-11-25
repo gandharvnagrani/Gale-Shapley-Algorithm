@@ -1,0 +1,42 @@
+l
+0
+students2000.txt
+l
+schools100.txt
+students1000.txt
+l
+0
+students100.txt
+p
+d
+m
+d
+e
+s
+101
+100
+lebron james
+0
+0
+n
+21
+jo biden
+4
+5
+n
+0
+h
+100
+lebron acdemy
+3
+.0001
+1
+uoft
+.5
+0
+q
+d
+m
+p
+r
+q

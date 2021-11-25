@@ -1,0 +1,12 @@
+l
+schools1000.txt
+students2000.txt
+l
+schools1000.txt
+students2000.txt
+d
+m
+d
+r
+q
+
