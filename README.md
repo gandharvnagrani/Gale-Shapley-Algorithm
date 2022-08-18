@@ -9,3 +9,5 @@ solution should make sure that each man is married to exactly one woman and vice
 marriages are stable. A stable matching solution means that there is no one person who would rather be
 with someone else who would also prefer to be with them. In other words, no two people would want to
 have an a air with each other.
+
+![smp](https://i.ibb.co/VvbcNJJ/smp.gif)
